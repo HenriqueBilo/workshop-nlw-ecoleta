@@ -21,6 +21,14 @@
     #page-home main{
         align-items: center;
     }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results .cards img{
+        height: 200px;
+    }
 }
 
 /*Quando a resolução da tela for de no mínimo 1700px*/
