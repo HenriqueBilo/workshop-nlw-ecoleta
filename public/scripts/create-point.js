@@ -56,6 +56,7 @@ for(const item of itemsToCollect)
 
 //Input vazio contendo os itens selecionados. Necessário ao enviar os dados
 const collectedItems = document.querySelector("input[name=items]")
+
 //Array de Ids selecionados
 let selectedItems = []
 
